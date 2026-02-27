@@ -18,3 +18,5 @@ Manipulate input and check output
 ## External hardware
 
 Connect logic analyzer on output pins.
+## Pinout
+Connect clk to PIN ui[0] 
