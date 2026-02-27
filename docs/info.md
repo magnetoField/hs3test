@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Its just number of gates to test the flow during OpenSilicon Boot Camp
 
 ## How to test
 
-Explain how to use your project
+Manipulate input and check output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Connect logic analyzer on output pins.
